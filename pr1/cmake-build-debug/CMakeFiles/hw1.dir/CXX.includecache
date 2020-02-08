@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/Arena.h
+globals.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/globals.h
+History.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/History.h
+string
+-
+
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/Game.h
+string
+-
+
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/History.h
+globals.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/globals.h
+
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/Player.h
+string
+-
+
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/Vampire.h
+
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/globals.h
+
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/main.cpp
+History.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/History.h
+Vampire.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/Vampire.h
+Player.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/Player.h
+Arena.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/Arena.h
+globals.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/globals.h
+Game.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/hw1/Game.h
+

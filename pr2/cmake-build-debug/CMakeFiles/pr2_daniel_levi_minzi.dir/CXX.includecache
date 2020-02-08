@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/pr2_daniel_levi_minzi/Map.cpp
+Map.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/pr2_daniel_levi_minzi/Map.h
+
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/pr2_daniel_levi_minzi/Map.h
+string
+-
+
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/pr2_daniel_levi_minzi/map_ll.cpp
+type_traits
+-
+Map.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/pr2_daniel_levi_minzi/Map.h
+iostream
+-
+cassert
+-
+Map.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/pr2_daniel_levi_minzi/Map.h
+iostream
+-
+cassert
+-
+Map.h
+/home/dminzi-ldt/Dropbox/projects/ongoing/cs32_hw/pr2_daniel_levi_minzi/Map.h
+iostream
+-
+cassert
+-
+

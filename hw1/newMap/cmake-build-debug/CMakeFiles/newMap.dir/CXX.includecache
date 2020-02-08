@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dminzi/Dropbox/projects/ongoing/cs32_hw/hw_1_daniel_levi_minzi/newMap/CarMap.h
+string
+-
+newMap.h
+/Users/dminzi/Dropbox/projects/ongoing/cs32_hw/hw_1_daniel_levi_minzi/newMap/newMap.h
+
+/Users/dminzi/Dropbox/projects/ongoing/cs32_hw/hw_1_daniel_levi_minzi/newMap/main.cpp
+newMap.h
+/Users/dminzi/Dropbox/projects/ongoing/cs32_hw/hw_1_daniel_levi_minzi/newMap/newMap.h
+CarMap.h
+/Users/dminzi/Dropbox/projects/ongoing/cs32_hw/hw_1_daniel_levi_minzi/newMap/CarMap.h
+iostream
+-
+cassert
+-
+
+/Users/dminzi/Dropbox/projects/ongoing/cs32_hw/hw_1_daniel_levi_minzi/newMap/newMap.h
+string
+-
+

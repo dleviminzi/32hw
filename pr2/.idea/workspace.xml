@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="pr2_daniel_levi_minzi" targetName="pr2_daniel_levi_minzi" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e713e277-29a1-473d-a81d-3b0da64d2c97" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1WuU4nUISaUAcFPyR7JBMQf2jmD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.sanitizers" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="pr2_daniel_levi_minzi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="pr2_daniel_levi_minzi" TARGET_NAME="pr2_daniel_levi_minzi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pr2_daniel_levi_minzi" RUN_TARGET_NAME="pr2_daniel_levi_minzi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e713e277-29a1-473d-a81d-3b0da64d2c97" name="Default Changelist" comment="" />
+      <created>1579998784200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579998784200</updated>
+      <workItem from="1579998785506" duration="13783000" />
+      <workItem from="1580082659361" duration="13429000" />
+      <workItem from="1580106897685" duration="1660000" />
+      <workItem from="1580155209261" duration="421000" />
+      <workItem from="1580156562324" duration="138000" />
+      <workItem from="1580159046894" duration="265000" />
+      <workItem from="1580268185935" duration="326000" />
+      <workItem from="1580268569092" duration="8000" />
+      <workItem from="1580268578703" duration="5732000" />
+      <workItem from="1580346375508" duration="620000" />
+      <workItem from="1580620977540" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2607" y="767" width="529" height="659" key="#xdebugger.XInspectDialog" timestamp="1580085911628">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="2607" y="767" width="529" height="659" key="#xdebugger.XInspectDialog/0.27.3840.2133@0.27.3840.2133" timestamp="1580085911628" />
+    <state x="2423" y="912" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580268574414">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="2423" y="912" width="424" height="491" key="FileChooserDialogImpl/0.27.3840.2133@0.27.3840.2133" timestamp="1580268574414" />
+    <state width="2188" height="321" key="GridCell.Tab.0.bottom" timestamp="1580275771912">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="2188" height="321" key="GridCell.Tab.0.bottom/0.27.3840.2133@0.27.3840.2133" timestamp="1580275771912" />
+    <state width="2188" height="321" key="GridCell.Tab.0.center" timestamp="1580275771912">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="2188" height="321" key="GridCell.Tab.0.center/0.27.3840.2133@0.27.3840.2133" timestamp="1580275771912" />
+    <state width="2188" height="321" key="GridCell.Tab.0.left" timestamp="1580275771911">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="2188" height="321" key="GridCell.Tab.0.left/0.27.3840.2133@0.27.3840.2133" timestamp="1580275771911" />
+    <state width="2188" height="321" key="GridCell.Tab.0.right" timestamp="1580275771912">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="2188" height="321" key="GridCell.Tab.0.right/0.27.3840.2133@0.27.3840.2133" timestamp="1580275771912" />
+    <state width="2188" height="321" key="GridCell.Tab.1.bottom" timestamp="1580275771913">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="2188" height="321" key="GridCell.Tab.1.bottom/0.27.3840.2133@0.27.3840.2133" timestamp="1580275771913" />
+    <state width="2188" height="321" key="GridCell.Tab.1.center" timestamp="1580275771912">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="2188" height="321" key="GridCell.Tab.1.center/0.27.3840.2133@0.27.3840.2133" timestamp="1580275771912" />
+    <state width="2188" height="321" key="GridCell.Tab.1.left" timestamp="1580275771912">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="2188" height="321" key="GridCell.Tab.1.left/0.27.3840.2133@0.27.3840.2133" timestamp="1580275771912" />
+    <state width="2188" height="321" key="GridCell.Tab.1.right" timestamp="1580275771912">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="2188" height="321" key="GridCell.Tab.1.right/0.27.3840.2133@0.27.3840.2133" timestamp="1580275771912" />
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel" timestamp="1580268576605">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="640" height="204" key="ImportCMakeProjectWizard.bottomPanel/0.27.3840.2133@0.27.3840.2133" timestamp="1580268576605" />
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel" timestamp="1580268576605">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state width="640" height="476" key="ImportCMakeProjectWizard.topPanel/0.27.3840.2133@0.27.3840.2133" timestamp="1580268576605" />
+    <state x="2144" y="786" width="992" height="737" key="SettingsEditor" timestamp="1580086163623">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="2144" y="786" width="992" height="737" key="SettingsEditor/0.27.3840.2133@0.27.3840.2133" timestamp="1580086163623" />
+    <state x="2374" y="522" key="run.anything.popup" timestamp="1580106614500">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="2374" y="522" key="run.anything.popup/0.27.3840.2133@0.27.3840.2133" timestamp="1580106614500" />
+    <state x="2363" y="529" width="672" height="678" key="search.everywhere.popup" timestamp="1580274263568">
+      <screen x="0" y="27" width="3840" height="2133" />
+    </state>
+    <state x="2363" y="529" width="672" height="678" key="search.everywhere.popup/0.27.3840.2133@0.27.3840.2133" timestamp="1580274263568" />
+  </component>
+</project>
