@@ -8,59 +8,78 @@ bool somePredicate(double x)
 
 bool anyFalse(const double a[], int n) 
 {
-    bool result(0);
+    int c = 0;
     if (n==0) return 0;
     if (n==1)
     {
-        if (!somePredicate(a[0])) result = 1;
+        if (!somePredicate(a[0])) c++;
     }
     else 
     {
-        result = anyFalse(a, n/2);
-        result = anyFalse(a+n/2, n - n/2);
+        c += anyFalse(a, n/2);
+        c += anyFalse(a+n/2, n - n/2);
     }
-    return result;
+    return c > 0;
 }
 
 int countTrue(const double a[], int n)
 {
-    int count(0);
-    if (n==0) return count;
+    int c = 0;
+    if (n==0) return c;
     if (n==1)
     {
-        if (somePredicate(a[0])) count++;
+        if (somePredicate(a[0])) c++;
     }
     else
     {
-        count += countTrue(a, n/2);
-        count += countTrue(a+n/2, n - n/2);
+        c += countTrue(a, n/2);
+        c += countTrue(a+n/2, n - n/2);
     }
-    return count;
+    return c;
 }
 
 int firstTrue(const double a[], int n)
 {
-    const double* ptr = a;
-    int d = n;
+    int d = 0;
     if (n==0) return -1;
     if (n==1) 
     {
-        if (somePredicate(a[0])) return (*ptr - a[0]);
+        if (!somePredicate(a[0])) return 1;
     }
     else 
     {
-        d -= firstTrue(a, n/2);
-        d -= firstTrue(a+n/2, n-n/2);
+        d += firstTrue(a, n/2);
+        if (d == n/2) d += firstTrue(a+n/2, n-n/2);
     }
     return d;
 }
 
+int positionOfSmallest(const double a[], int n) 
+{
+    int s_val = a[n-1];
+    if (n==0) return -1;
+    if (n==1) 
+    {
+        if (a[0] <= s_val) return a[0];
+    }
+    else
+    {
+        int s_val2;
+        s_val = positionOfSmallest(a, n/2);
+        s_val2 = positionOfSmallest(a+n/2, n-n/2);
+        if (s_val2 < s_val) s_val = s_val2;
+    }
+    return s_val;
+}
+
+
 
 int main() 
 {
-    double arr[5] = {-1, -2, -3, -4, -5};
+    double arr[6] = {-2, -903, -3, -2, -1111, 4};
     std::cout << anyFalse(arr, 5) << std::endl;
     std::cout << countTrue(arr, 5) << std::endl;
-    std::cout << firstTrue(arr, 5) << std::endl;
+    std::cout << firstTrue(arr, 6) << std::endl;
+    std::cout << positionOfSmallest(arr, 6) << std::endl;
 }
 
